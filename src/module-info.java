@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Fulvio
+ *
+ */
+module Emergency {
+}
